@@ -1,3 +1,4 @@
+Working copy
 # docker install for openatrium
 
 This repo contains a working repository for Phase2's OpenAtrium, based on the Drupal CMS.
